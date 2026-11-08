@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Le Quoc Thien!
+# 👋 Hi there, I'm Neidy!
 
 AI-oriented Computer Science undergraduate entering final year at **VNUHCM - University of Science (HCMUS)**.  
 Passionate about **Multimodal AI**, **Speech Processing**, and building autonomous **AI Agents**.

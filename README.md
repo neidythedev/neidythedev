@@ -5,7 +5,7 @@ Passionate about **Multimodal AI**, **Speech Processing**, and building autonomo
 
 ---
 
-### 🔭 Currently Focusing On:
+### Currently Focusing On:
 - 🎙️ **Speech-to-Speech Translation (S2ST)** *(Undergraduate Thesis)*
 - 🤖 **Voice-First & Multimodal AI Agents** (streaming tool-use, low-latency execution)
 - 👁️ **Vision-Language Models (VLMs)** & Parameter-Efficient Fine-Tuning (PEFT-LoRA)
